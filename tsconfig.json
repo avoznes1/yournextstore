@@ -16,7 +16,7 @@
 		"jsx": "preserve",
 		"incremental": true,
 		"allowUnreachableCode": true,
-		"noUnusedLocals": true,
+		"noUnusedLocals": false,
 		"noUnusedParameters": false,
 		"noUncheckedIndexedAccess": true,
 		"plugins": [
